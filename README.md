@@ -1,4 +1,3 @@
-## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=HARSHA%20S%20RAO&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20DEVELOPER&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
@@ -117,7 +116,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="linkedin.com/in/harsha-s-rao">
+  <a href="https://linkedin.com/in/harsha-s-rao">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/s_rao72930">
@@ -126,13 +125,13 @@
   <a href="https://wa.me/9353181958">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="www.youtube.com/@harshaajiet">
+  <a href="https://www.youtube.com/@harshaajiet">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:harshasrao584@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="harshasraoportofolio.netlify.app">
+  <a href="https://harshasraoportofolio.netlify.app">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
