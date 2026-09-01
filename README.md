@@ -5,6 +5,11 @@
     <img src="https://komarev.com/ghpvc/?username=harshasrao1&label=Profile%20views&color=00FFFF&style=flat-square" alt="harshasrao1's profile views" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/ABHISHEKp231">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshasrao1&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Banner" width="100%" />
 
